@@ -1,0 +1,20 @@
+body {
+  background-color: #2b87d1;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 5em;
+  color: white;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select:none;
+}
+
+div {
+  vertical-align: middle;
+  text-align: center;
+  position: relative;
+  top:38%;
+}
